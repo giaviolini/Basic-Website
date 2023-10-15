@@ -1,2 +1,2 @@
 # Basic-Website
-This is a basic website with several pages. [https://giaviolini.github.io/Basic-Website/](url)
+This is a basic website with several pages. [Visit the site here.](https://giaviolini.github.io/Basic-Website/)
